@@ -16,7 +16,7 @@ main {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 label,
@@ -24,7 +24,7 @@ input,
 button {
   display: block;
   margin-block-end: 20px;
-  font-size: 2rem;
+  font-size: 1rem;
   padding: 0.5rem;
 }
 
